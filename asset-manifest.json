@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tournoi-rap-marocain/static/css/main.5d058cbf.css",
+    "main.js": "/tournoi-rap-marocain/static/js/main.4f7580ad.js",
+    "index.html": "/tournoi-rap-marocain/index.html",
+    "main.5d058cbf.css.map": "/tournoi-rap-marocain/static/css/main.5d058cbf.css.map",
+    "main.4f7580ad.js.map": "/tournoi-rap-marocain/static/js/main.4f7580ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d058cbf.css",
+    "static/js/main.4f7580ad.js"
+  ]
+}
