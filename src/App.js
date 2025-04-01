@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Loader from './Loader';  
 import MusicPlayer from './MusicPlayer';
 import ContactSection from './ContactSection';  // Renamed import
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   const [loading, setLoading] = useState(true);
